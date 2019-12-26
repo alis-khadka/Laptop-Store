@@ -1,0 +1,26 @@
+{
+  "name": "laptop-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alis-khadka/Laptop-Store.git"
+  },
+  "author": "Prashant Khadka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alis-khadka/Laptop-Store/issues"
+  },
+  "homepage": "https://github.com/alis-khadka/Laptop-Store#readme",
+  "engines": {
+    "node": "10.16.0"
+  }
+}
