@@ -6,6 +6,9 @@
   "scripts": {
     "start": "nodemon"
   },
+  "devDependencies": {
+    "nodemon": "2.0.2"
+  },
   "keywords": [
     "example",
     "heroku"
